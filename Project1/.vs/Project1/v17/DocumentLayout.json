@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\git\\BOOK_IT_ENGINEER_C\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91BA2D26-B12C-40EF-9D8B-5E9F0F94F6D1}|Project1\\Project1.vcxproj|C:\\Users\\user\\git\\BOOK_IT_ENGINEER_C\\Project1\\Project1\\test7_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91BA2D26-B12C-40EF-9D8B-5E9F0F94F6D1}|Project1\\Project1.vcxproj|solutionrelative:Project1\\test7_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BA2D26-B12C-40EF-9D8B-5E9F0F94F6D1}|Project1\\Project1.vcxproj|C:\\Users\\user\\git\\BOOK_IT_ENGINEER_C\\Project1\\Project1\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91BA2D26-B12C-40EF-9D8B-5E9F0F94F6D1}|Project1\\Project1.vcxproj|solutionrelative:Project1\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test7_4.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\git\\BOOK_IT_ENGINEER_C\\Project1\\Project1\\test7_4.cpp",
+              "RelativeDocumentMoniker": "Project1\\test7_4.cpp",
+              "ToolTip": "C:\\Users\\user\\git\\BOOK_IT_ENGINEER_C\\Project1\\Project1\\test7_4.cpp",
+              "RelativeToolTip": "Project1\\test7_4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T23:23:27.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uC18C\uC2A4.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\git\\BOOK_IT_ENGINEER_C\\Project1\\Project1\\\uC18C\uC2A4.cpp",
+              "RelativeDocumentMoniker": "Project1\\\uC18C\uC2A4.cpp",
+              "ToolTip": "C:\\Users\\user\\git\\BOOK_IT_ENGINEER_C\\Project1\\Project1\\\uC18C\uC2A4.cpp",
+              "RelativeToolTip": "Project1\\\uC18C\uC2A4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T23:11:50.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
