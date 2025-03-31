@@ -138,6 +138,7 @@
     <ClCompile Include="242_39.cpp" />
     <ClCompile Include="244_41.cpp" />
     <ClCompile Include="245_42.cpp" />
+    <ClCompile Include="248_45.cpp" />
     <ClCompile Include="29_1.cpp" />
     <ClCompile Include="9_9.cpp" />
     <ClCompile Include="test7_4.cpp" />
