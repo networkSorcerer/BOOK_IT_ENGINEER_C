@@ -142,6 +142,7 @@
     <ClCompile Include="248_46.cpp" />
     <ClCompile Include="252_50.cpp" />
     <ClCompile Include="29_1.cpp" />
+    <ClCompile Include="29_2.cpp" />
     <ClCompile Include="9_9.cpp" />
     <ClCompile Include="test7_4.cpp" />
     <ClCompile Include="소스.cpp" />
