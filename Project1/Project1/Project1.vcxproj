@@ -127,6 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="146cpp.cpp" />
+    <ClCompile Include="151_2.cpp" />
+    <ClCompile Include="152_4.cpp" />
+    <ClCompile Include="152_5.cpp" />
+    <ClCompile Include="152_6.cpp" />
+    <ClCompile Include="153_7.cpp" />
+    <ClCompile Include="154_10.cpp" />
+    <ClCompile Include="155.cpp" />
+    <ClCompile Include="162_6.cpp" />
+    <ClCompile Include="163_7.cpp" />
+    <ClCompile Include="166_13.cpp" />
     <ClCompile Include="228_8.cpp" />
     <ClCompile Include="232_18.cpp" />
     <ClCompile Include="233_21.cpp" />
