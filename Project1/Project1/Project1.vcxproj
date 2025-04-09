@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="106.cpp" />
     <ClCompile Include="109_15.cpp" />
+    <ClCompile Include="132_17.cpp" />
     <ClCompile Include="146cpp.cpp" />
     <ClCompile Include="151_2.cpp" />
     <ClCompile Include="152_4.cpp" />
@@ -146,6 +147,9 @@
     <ClCompile Include="174_2.cpp" />
     <ClCompile Include="176_1cpp.cpp" />
     <ClCompile Include="177_2.cpp" />
+    <ClCompile Include="178_2.cpp" />
+    <ClCompile Include="182_1.cpp" />
+    <ClCompile Include="183_3.cpp" />
     <ClCompile Include="2021_18.cpp" />
     <ClCompile Include="2022_2_16.cpp" />
     <ClCompile Include="228_8.cpp" />
