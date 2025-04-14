@@ -131,6 +131,7 @@
     <ClCompile Include="109_15.cpp" />
     <ClCompile Include="132_17.cpp" />
     <ClCompile Include="146cpp.cpp" />
+    <ClCompile Include="146_7.cpp" />
     <ClCompile Include="151_2.cpp" />
     <ClCompile Include="152_4.cpp" />
     <ClCompile Include="152_5.cpp" />
@@ -142,6 +143,7 @@
     <ClCompile Include="163_7.cpp" />
     <ClCompile Include="166_13.cpp" />
     <ClCompile Include="167_2cpp.cpp" />
+    <ClCompile Include="171_16.cpp" />
     <ClCompile Include="171_4.cpp" />
     <ClCompile Include="171_5.cpp" />
     <ClCompile Include="174_2.cpp" />
@@ -149,11 +151,14 @@
     <ClCompile Include="177_2.cpp" />
     <ClCompile Include="178_2.cpp" />
     <ClCompile Include="182_1.cpp" />
+    <ClCompile Include="182_18.cpp" />
     <ClCompile Include="183_3.cpp" />
+    <ClCompile Include="202_10.cpp" />
     <ClCompile Include="2021_18.cpp" />
     <ClCompile Include="2022_2_16.cpp" />
     <ClCompile Include="228_8.cpp" />
     <ClCompile Include="232_18.cpp" />
+    <ClCompile Include="233-21.cpp" />
     <ClCompile Include="233_21.cpp" />
     <ClCompile Include="235_25.cpp" />
     <ClCompile Include="236_28.cpp" />
@@ -166,6 +171,7 @@
     <ClCompile Include="248_45.cpp" />
     <ClCompile Include="248_46.cpp" />
     <ClCompile Include="252_50.cpp" />
+    <ClCompile Include="282_18.cpp" />
     <ClCompile Include="29_1.cpp" />
     <ClCompile Include="29_2.cpp" />
     <ClCompile Include="30_3.cpp" />
@@ -179,6 +185,8 @@
     <ClCompile Include="60_14.cpp" />
     <ClCompile Include="84_13.cpp" />
     <ClCompile Include="9_9.cpp" />
+    <ClCompile Include="test235_25.cpp" />
+    <ClCompile Include="Test240_36.cpp" />
     <ClCompile Include="test7_4.cpp" />
     <ClCompile Include="소스.cpp" />
     <ClCompile Include="12_15.cpp" />
